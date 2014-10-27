@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+body {font-size:14px;}			
+#nav {position:fixed; font-size:14px; font-family:""; top:0; left:0; background:#BFBFFF; border-bottom:1px solid #d3d3d3;width:100%; color:#DBDBEA;}
+#nav a {padding:6px 2px; display:inline-block; color:#402000}
+.home2 {background:url(/images/home2.png) no-repeat 0 8px;text-indent:16px;}
+a {text-decoration:none;}
+#ptime {color:#79796A; text-align:right;padding-right:14px;}
+h1{font-size:18px; margin-top:50px; color:#00008C; margin-bottom:0;}
+h1 a{text-decoration:none;}
+h2 {font-size:14px; color:#B32D00;border-bottom:1px dotted #B32D00;}
+h2 a{text-decoration:none;display:block; padding:4px; font-size:18px;}
+h3 {padding:4px; font-size:14px; color:#007FFF; border-bottom:1px dotted #007fff;}
+h4 {color:#661A00;}
+.tupian img{max-width: 100%;height: auto;width: auto\9;}
+.article {line-height:22px;}
+ol {font-size:12px; color:#535362; background:#DBDBEA;}
+ul {font-size:12px;}
+.showbutton {border-radius:6px; -webkit-border-radius:6px; box-shadow:0 0 2px;-webkit-box-shadow:0 0 2px;}
+#ucomment {background:#CFFFBF; padding:4px; box-shadow:0 0 2px #006633;-webkit-box-shadow:0 0 2px #006633;width:96%;}
+textarea {height:188px; width:98%;}
+fieldset {border:1px dotted #868695;}
+#xg ul{margin:0;padding:0;}
+#xg a {font-size:14px; display:block;padding:4px 0; display:block;}
+#xg li{overflow:hidden; text-overflow:ellipsis; white-space:nowrap;}
